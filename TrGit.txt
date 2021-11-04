@@ -1,2 +1,1 @@
-Scanner
-String bc
+Scanner sc = new Scanner();
