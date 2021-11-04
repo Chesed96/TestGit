@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 efgh
+=======
+abcd
+>>>>>>> 20f490f4313f781fcc4b23c64e55c3969cebcc9e
